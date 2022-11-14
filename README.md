@@ -96,3 +96,11 @@ inspection errors, and labor cost. This leads to higher revenue, lower overall c
 higher profit. The company can easily implement this by using our implementation plan
 that utilizes simple optical system or utilize AI for broader purposes to conduct root
 cause analysts, predictive maintenance, and production optimization.
+
+## Code and Resources Used
+You can access the full report [here](https://github.com/Natashyatiro/casting-product-image-classification/blob/main/Full%20Report.pdf)
+
+**Dataset Source:** https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product 
+
+**Orange Version:** 3.32
+
